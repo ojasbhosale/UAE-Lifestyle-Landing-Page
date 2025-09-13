@@ -151,7 +151,7 @@ const Beaches = () => {
           <p>Ready to See the Hottest Beach Clubs?</p>
           <button
             className="btn btn-primary"
-            onClick={() => document.getElementById("signup").scrollIntoView({ behavior: "smooth" })}
+            onClick={() => document.getElementById("community").scrollIntoView({ behavior: "smooth" })}
           >
             Discover All Beach Clubs
           </button>

@@ -165,7 +165,7 @@ const Explore = () => {
           <p>Ready to Start Your UAE Exploration?</p>
           <button
             className="btn btn-primary"
-            onClick={() => document.getElementById("signup")?.scrollIntoView({ behavior: "smooth" })}
+            onClick={() => document.getElementById("community")?.scrollIntoView({ behavior: "smooth" })}
           >
             Get Started Now
           </button>
